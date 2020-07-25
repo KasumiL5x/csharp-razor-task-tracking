@@ -1,4 +1,4 @@
-namespace Tasker.Pages {
+namespace Tasker {
   public class Task {
     public int Id { get; set; }
     public string Title { get; set; }
